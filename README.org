@@ -1,1 +1,6 @@
 * Test
+
+
+
+[[https://travis-ci.org/vtex-soft/test2][https://travis-ci.org/vtex-soft/test2.svg?branch=master]]
+
